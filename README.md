@@ -5,7 +5,7 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 
 ## 🔍 Key Findings
 Our analysis reveals critical patterns in how news sentiment reflects global events and corporate actions:
-* **Sentiment Bias**: The overall sentiment in ESG media coverage is overwhelmingly **positive** (Average Score: 0.25), indicating a dominant optimistic bias in corporate sustainability reporting.
+* **Sentiment Bias**: The overall sentiment in ESG media coverage is overwhelmingly **positive**, indicating a dominant optimistic bias in corporate sustainability reporting.
 * **Geopolitical Impact**: The **Russia-Ukraine war** brought ESG sentiment scores to their lowest historical point, driven by energy transition risks, humanitarian crises, and market withdrawals.
 * **Regulatory Influence**: The introduction of new **U.S. SEC ESG disclosure rules** created distinct sentiment spikes, aimed at enhancing investor confidence and transparency.
 
